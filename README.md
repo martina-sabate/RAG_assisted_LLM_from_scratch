@@ -3,7 +3,7 @@ Build Your Own RAG-Assisted Large Language Model (LLM) – Step-by-Step Guide (b
 
 📖 A Practical AI Tutorial for anyone getting started with AI and LLMs
 
-This repository provides a step-by-step guide on how to apply Retrieval-Augmented Generation (RAG) to a Large Language Model (LLM) to ground your model's results on literature of your choice. We will code this from scratch using open-source tools. By the end of this tutorial, you will understand how to:
+This repository provides a step-by-step guide on how to build a Retrieval-Augmented Generation (RAG) pipeline from scratch. RAG is a technique used to ground a Large Language Model (LLM) on documents / literature of your choice. We will code this from scratch using open-source tools. By the end of this tutorial, you will understand how to:
 
 - Implement RAG architecture to enhance LLMs with external knowledge.
 - Connect LLMs (like OpenAI’s GPT) with document search capabilities.
