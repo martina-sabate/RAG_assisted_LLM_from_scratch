@@ -12,3 +12,9 @@ bitsandbytes
 jupyter
 wheel
 requests
+transformers
+torch
+torchvision 
+torchaudio
+tensorflow
+flax
