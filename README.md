@@ -36,6 +36,8 @@ In this tutorial, we walk through building a RAG pipeline from scratch using a P
 Building a RAG pipeline yourself — rather than relying on out-of-the-box tools — is a powerful learning experience for several reasons:
 
 **1. Demystify How AI Systems Work**
+
+
 RAG represents a practical, modular architecture that mimics how real-world AI applications function: a hybrid of classical NLP techniques (like search and ranking) with generative deep learning models. Learning to construct it step-by-step exposes you to the anatomy of a modern AI system.
 
 You’ll learn:
@@ -49,6 +51,8 @@ You’ll learn:
 - How to design a system that feeds context into an LLM dynamically
 
 **2. Gain Full Control**
+
+
 Prebuilt frameworks are great for prototyping, but building RAG from scratch gives you:
 
 - Full control over every step of the pipeline (e.g., chunking strategy, embedding models, retrieval logic)
@@ -58,6 +62,8 @@ Prebuilt frameworks are great for prototyping, but building RAG from scratch giv
 - A deeper understanding of failure points (e.g., irrelevant chunks, semantic drift)
 
 **3. Enhance Model Accuracy with Domain-Specific Knowledge**
+
+
 By injecting context from external sources, RAG lets you turn general-purpose LLMs into domain-aware assistants. Whether you're working with scientific research, legal documents, financial reports, or customer support tickets, RAG enables the model to reason over your own data with precision.
 
 
