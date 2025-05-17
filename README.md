@@ -69,7 +69,7 @@ By injecting context from external sources, RAG lets you turn general-purpose LL
 
 In this tutorial, we demonstrate this with a scientific PDF — allowing the LLM to answer user questions grounded in the original paper, even if that paper was never part of the model’s training data.
 
-4. Learn the Foundations for More Advanced Applications
+**4. Learn the Foundations for More Advanced Applications**
 Understanding how to build a RAG pipeline is a stepping stone toward more advanced AI systems:
 
 Conversational Agents with Memory: Extend RAG to support chat history and session-aware retrieval.
@@ -81,17 +81,17 @@ Enterprise Knowledge Management: Apply RAG to company documents, wikis, and data
 ### 🚀 What You’ll Build in This Tutorial
 In this hands-on tutorial, you’ll build a minimal but complete RAG pipeline that:
 
-Parses a PDF scientific paper and extracts its text.
+- Parses a PDF scientific paper and extracts its text.
 
-Chunks the text into semantically meaningful units.
+- Chunks the text into semantically meaningful units.
 
-Embeds the chunks using a pre-trained open-source embedding model.
+- Embeds the chunks using a pre-trained open-source embedding model.
 
-Accepts a user query, and retrieves the top 5 most relevant chunks.
+- Accepts a user query, and retrieves the top 5 most relevant chunks.
 
-Augments the prompt of a local open-source LLM with the retrieved chunks.
+- Augments the prompt of a local open-source LLM with the retrieved chunks.
 
-Generates a grounded answer, citing the source material.
+- Generates a grounded answer, citing the source material.
 
 ### 🎯 Who Is This For?
 This tutorial is for developers, data scientists, and AI enthusiasts who:
