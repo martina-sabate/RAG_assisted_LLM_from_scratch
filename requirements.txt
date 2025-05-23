@@ -19,3 +19,4 @@ torchaudio
 tensorflow
 flax
 pytest
+sentence_transformers
