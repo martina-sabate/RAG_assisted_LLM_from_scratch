@@ -14,11 +14,18 @@ This repository provides a step-by-step guide on how to build a Retrieval-Augmen
 AI Assistant for Research Papers. To make this tutorial practical, we apply the RAG model to help students and researchers quickly understand complex research papers. Upload any paper you need to read and retrieve information from it in seconds.
 
 📌 **Tech Stack & Concepts You'll Learn**
-
+Concepts:
 - Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs) and Embedding Models
+- Dot Product Similarity Search
+- Natural Language Processing (NLP)
+  
+Tech Stack:
 - HuggingFace Transformers Framework
-- Prompt Engineering concepts
-- (Streamlit)
+- Pytorch
+- Numpy
+- Matplotlib
+- spaCy (NLP)
 
 ## Step by step instructions in 'RAG_assisted_LLM.ipynb' file.
  ________________________________________________________________
